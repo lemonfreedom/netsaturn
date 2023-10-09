@@ -1,4 +1,7 @@
 .vscode/
 images/
+build/
+dist/
+sohu.txt
 电影资源.txt
 chromedriver.exe
